@@ -1,0 +1,10 @@
+PACT Benchmark v9.3 reviewer revision
+Generated: 18-Sep-2026 16:41:08
+Profile: PAPER_FULL
+MATLAB version: 25.1.0.2943329 (R2025a)
+Computer architecture: maca64
+No iterative reconstruction/convergence experiment is included.
+Primary proposed components: NC-VDAS and sequential SM-MV.
+Reference MV: direct spatially smoothed, diagonally loaded SS-MV.
+Random seed: 20260711
+Output directory: /Users/tabar/Desktop/Bahareh-Kh/Parsa Shahidi/Revise_PACT/benchmark_v93_reviewer_revision

@@ -1,0 +1,7 @@
+*.asv
+.DS_Store
+*.fig
+*.mat
+benchmark_v93_reviewer_revision/
+RESOLUTION_9POINT_REVISION/
+ADAPTIVE_11PHANTOM_COMPLETION/

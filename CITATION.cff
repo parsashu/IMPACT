@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated Biomedical Optics Express article."
+title: "PACT 2-D Direct-Beamforming Benchmark"
+type: software
+authors:
+  - family-names: "Khishkhah"
+    given-names: "Bahareh"
+  - family-names: "Shahidi"
+    given-names: "Parsa"
+  - family-names: "Rahimi Tabar"
+    given-names: "M. Reza"
+version: "1.0.0"
+date-released: "2026-09-21"
+repository-code: "https://github.com/parsashu/IMPACT"
